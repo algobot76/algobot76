@@ -13,6 +13,6 @@
 ## Education
 
 - The University of British Columbia
-  - BSc in Computer Science (with co-op)
+  - BSc in Computer Science (with Co-op)
   - 2015.09 - 2021.04
   - Vancouver, Canada
