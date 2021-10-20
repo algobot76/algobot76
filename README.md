@@ -1,5 +1,11 @@
-### Hi there :wave:
+## Work Experience
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falgobot76%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-![Kaitian Xie's github stats](https://github-readme-stats.vercel.app/api?username=algobot76&show_icons=true&include_all_commits=true)
+- Huawei: Software Engineer
+  - 2021.07 - Current
+  - Shenzhen, China
+- Aupera: Softwar Engineer Intern
+  - 2019.08 - 2020.03
+  - Vancouver, Canada
+- ModernAdvisor: Software Engineer Intern
+  - 2019.01-2019.04
+  - Vancouver, Canada
