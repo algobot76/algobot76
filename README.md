@@ -1,6 +1,6 @@
 ## Work Experience
 
-- Huawei: Software Engineer (2021.07 - Current)
+- Huawei: Software Engineer (2021.07 - Present)
   - Shenzhen, China
 - Aupera: Softwar Engineer Intern (2019.08 - 2020.03)
   - Vancouver, Canada
