@@ -8,9 +8,9 @@
 
 == Work Experience
 
-* *Huawei*: Software Engineer (2021.07 - Present)
+* *Huawei*: Software Engineer [Java] (2021.07 - Present)
 ** Shenzhen, China
-* *Aupera*: Softwar Engineer Intern (2019.08 - 2020.03)
+* *Aupera*: Softwar Engineer Intern [Full Stack] (2019.08 - 2020.03)
 ** Vancouver, Canada
-* *ModernAdvisor*: Software Engineer Intern (2019.01 - 2019.04)
+* *ModernAdvisor*: Software Engineer Intern [Full Stack] (2019.01 - 2019.04)
 ** Vancouver, Canada
