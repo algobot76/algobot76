@@ -8,7 +8,10 @@
 
 == Work Experience
 
-* *Huawei*: Software Engineer (Java) [2021.07 - Present]
+
+* *Huawei*: Software Engineer (Cloud Native) [2022.03 - Present]
+** Shenzhen, China
+* *Huawei*: Software Engineer (Java) [2021.07 - 2022.03]
 ** Shenzhen, China
 * *Aupera*: Softwar Engineer Intern (Full Stack) [2019.08 - 2020.03]
 ** Vancouver, Canada
