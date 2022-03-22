@@ -9,11 +9,11 @@
 == Work Experience
 
 
-* *Huawei*: Software Engineer (Cloud Native) [2022.03 - Present]
+* *Huawei*: Software Engineer (https://www.huaweicloud.com/product/ief.html[IEF]) [2022.03 - Present]
 ** Shenzhen, China
-* *Huawei*: Software Engineer (Java) [2021.07 - 2022.03]
+* *Huawei*: Software Engineer (https://classroom.devcloud.huaweicloud.com/home[Classroom]) [2021.07 - 2022.03]
 ** Shenzhen, China
-* *Aupera*: Softwar Engineer Intern (Full Stack) [2019.08 - 2020.03]
+* *Aupera*: Softwar Engineer Intern [2019.08 - 2020.03]
 ** Vancouver, Canada
-* *ModernAdvisor*: Software Engineer Intern (Full Stack) [2019.01 - 2019.04]
+* *ModernAdvisor*: Software Engineer Intern [2019.01 - 2019.04]
 ** Vancouver, Canada
