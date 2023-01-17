@@ -9,7 +9,7 @@
 == Work Experience
 
 
-* *Huawei*: Software Engineer (Cloud ) [2022.03 - Present]
+* *Huawei*: Software Engineer (Cloud Native) [2022.03 - Present]
 ** Shenzhen, China
 * *Huawei*: Software Engineer (Java) [2021.07 - 2022.03]
 ** Shenzhen, China
