@@ -9,9 +9,9 @@
 == Work Experience
 
 
-* *Huawei*: Software Engineer (https://www.huaweicloud.com/product/ief.html[IEF]) [2022.03 - Present]
+* *Huawei*: Software Engineer (Cloud ) [2022.03 - Present]
 ** Shenzhen, China
-* *Huawei*: Software Engineer (https://classroom.devcloud.huaweicloud.com/home[Classroom]) [2021.07 - 2022.03]
+* *Huawei*: Software Engineer (Java) [2021.07 - 2022.03]
 ** Shenzhen, China
 * *Aupera*: Softwar Engineer Intern [2019.08 - 2020.03]
 ** Vancouver, Canada
